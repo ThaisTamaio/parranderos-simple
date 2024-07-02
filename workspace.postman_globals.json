@@ -1,0 +1,27 @@
+{
+	"id": "49566d44-2269-4458-8c10-6d8f37535415",
+	"values": [
+		{
+			"key": "clienteId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "transaccionesId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "cuentaId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-06-13T16:04:22.296Z",
+	"_postman_exported_using": "Postman/10.20.8"
+}
